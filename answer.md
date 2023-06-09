@@ -19,15 +19,15 @@
 
    答案：
 
-    #自訂義
-    class  plus:
-        firstnum: int =5
-        secondnum: int =6
-    def getSum(self) -> int:
-        return self.firstnum +self.secondnum
+    #自訂義<br>
+    class  plus:<br>
+        firstnum: int =5<br>
+        secondnum: int =6<br>
+    def getSum(self) -> int:<br>
+        return self.firstnum +self.secondnum<br>
 
-    plan = plus()
-    print(plan.getSum())
+    plan = plus()<br>
+    print(plan.getSum())<br>
 
 2. 何謂物件導向？物件導向的物件與學習過的變數是否有相關性？
 
